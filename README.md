@@ -1,3 +1,2 @@
-### 🦖 Chrome Dino Vibes!
-![dino](https://i.imgur.com/OCyvf4a.gif)
+[![Play Dino](https://raw.githubusercontent.com/some-repo/dino.gif)](https://some-live-dino-game-url)
 
