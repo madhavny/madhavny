@@ -1,6 +1,7 @@
-<p align="center">
-  <a href="https://chromedino.com/batman/" target="_blank">
-    <img src="https://www.reddit.com/r/indiegames/comments/m5g8nm/i_replicated_the_chrome_dino_game_inspired_by_a/" alt="batman-dino" height="200" />
-  </a>
-</p>
-
+<a href="https://chromedino.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="./img/dino.gif" />
+    <img alt="https://madhavny.com" src="./img/dino.gif" />
+  </picture>
+</a>
