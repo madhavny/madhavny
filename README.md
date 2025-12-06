@@ -1,16 +1,6 @@
-<!-- Retro Dino GitHub Profile README -->
-
 <p align="center">
-  <img src="https://i.imgur.com/OCyvf4a.gif" height="180" alt="dino-running" />
+  <a href="https://chromedino.com/batman/" target="_blank">
+    <img src="https://i.imgur.com/OCyvf4a.gif" alt="batman-dino" height="200" />
+  </a>
 </p>
-
-<h1 align="center">🦖 Hey there, I’m Neelmadhav</h1>
-<p align="center">Frontend & Mobile Developer | Retro Game Lover | Building cool stuff 🔥</p>
-
----
-
-### 🎮 Press Start
-
-```bash
-> player.start()
-> loading… welcome to my world! 🌍
+<p align="center">Click the Dino to Play Batman Mode 🦇🦖</p>
